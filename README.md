@@ -8,7 +8,7 @@
 Predicting car prices accurately is crucial for CarDekho to optimize pricing strategies and enhance customer satisfaction. This project leverages regularization techniques on CarDekho's sales data to develop robust regression models for predicting selling prices.
 
 
-![](https://github.com/Prakashpsk/Regularization-Techniques/blob/main/r%2Cl%2Ce.png)
+![](https://github.com/Prakashpsk/Regularization-Techniques/blob/main/laso_ridge.png)
 
 
 ## Problem Statement
